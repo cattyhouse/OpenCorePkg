@@ -14,7 +14,7 @@ OpenCore Changelog
 - Added `PickerAttributes` option to colour picker
 - Added `ProtectSecureBoot` option through FwRuntimeServices
 - Replaced `RequireVault` and `RequireSignature` with `Vault`
-- Added `BootKicker` tool to support launching Apple BootPicker
+- Added `BootPicker` tool to support launching Apple BootPicker
 - Added BootPicker support as an external UI in OC through `PickerMode`
 - Added `DirectGopRendering` option to use direct GOP output
 - Multiple memory corruption and performance fixes for PNG support
